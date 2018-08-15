@@ -1,0 +1,7 @@
+# JetBrains IDE temporary files
+.idea/
+
+# Npm install trees or stuff
+yarn.lock
+package-lock.json
+node_modules/

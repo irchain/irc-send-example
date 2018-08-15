@@ -1,0 +1,14 @@
+{
+  "name": "nodecache",
+  "version": "0.0.0",
+  "description": "",
+  "main": "sends.js",
+  "scripts": {},
+  "dependencies": {
+    "icjs-tx": "^0.0.2",
+    "webu": "^2.0.1",
+    "solc": "^0.4.24"
+  },
+  "author": "",
+  "license": "ISC"
+}
