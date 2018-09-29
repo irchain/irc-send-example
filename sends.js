@@ -99,8 +99,8 @@ const makeTxReceiptCb = cb => (err, hash) => {
     });
 };
 
-const privKey = '5645de1815c17c541ea461aaad7e388f73cab197256a246352c09ad6ef3e2974';
-const sender = '0x0986a8273fa2c69398deecd1d69ec49d91f19aba';
-const to = '0xd0ca89a6d9435a6a4857c1083f165af01fbfda7d';
-const name = 'IrIP20 Coin - Test';
-const symbol = 'IrIP20';
+const privKey = '';
+const sender = '';
+const to = '';
+const name = 'Test Coin';
+const symbol = '@';
